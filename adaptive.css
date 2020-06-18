@@ -1,0 +1,83 @@
+@media only screen and (max-device-width: 480px) {
+
+#menu{
+	width: 100%;
+	height: 300px;
+}
+
+.buton{
+	width: 260px;
+	height: 100px;
+}
+
+a{
+font-size: 38px;
+}
+
+.left_but{
+	margin-left: 60px;
+}
+
+.right_but{
+	margin-top: 0px;
+	margin-right: 60px;
+}
+
+.center_card{
+	position: absolute;
+margin-top: 100px;
+margin-left: 380px;
+}
+
+#content_block{
+	width: 100%;
+	height: 3300px;
+}
+
+.heading{
+	width: 700px;
+	height: 1200px;
+}
+.txt{
+	font-size: 50px;
+}
+.character2{
+	position: absolute;
+	left: 165px;
+	top: 1200px;
+	width: 600px;
+	height: 900px;
+}
+
+
+.character1{
+	position: absolute;
+	left: 420px;
+	top: 2200px;
+	width: 600px;
+	height: 900px;
+}
+.btn_char{
+	margin-top: 770px;
+	width: 400px;
+	height: 100px;
+
+}
+
+#content_block2{
+	width: 100%;
+	height: 750px;
+}
+
+.circle{
+	width: 400px;
+	height: 550px;
+}
+
+#lower_block{
+	width: 100%;
+	height: 300px;
+	margin-top: 0px;
+}
+
+}
